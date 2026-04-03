@@ -1,3 +1,5 @@
+![Country Economy Analysis](Country_economy_analysis.png)
+
 # Country Economy Analysis
 
 This project analyzes country-level economic data using Pandas and visualization libraries.
