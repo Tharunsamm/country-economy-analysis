@@ -1,4 +1,4 @@
-![Country Economy Analysis](Country_economy_analysis.png)
+![Country Economy Analysis](Country_Economy_Analysis.png)
 
 # Country Economy Analysis
 
